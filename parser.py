@@ -2,7 +2,6 @@ import requests
 import json
 import re
 import html
-import paho.mqtt.publish as publish
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 
